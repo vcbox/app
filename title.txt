@@ -1,2 +1,4 @@
 IP Vanish
 Mobdro
+Remote Support
+Remote Support Add-On
