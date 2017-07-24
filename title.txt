@@ -2,3 +2,4 @@ IP Vanish
 Mobdro
 Remote Support
 Remote Support Add-On
+Internet Speed Test
