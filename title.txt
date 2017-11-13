@@ -3,3 +3,4 @@ Mobdro
 Remote Support
 Remote Support Add-On
 Internet Speed Test
+Terrarium
